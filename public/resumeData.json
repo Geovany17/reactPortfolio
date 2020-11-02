@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name":"Geovany Cardoza",
+    "occupation":"(Full Stack Web Developer)",
+    "description": "With a Web Development Certificate from the University of Pennsylvania. Born in Puerto Rico, But currently living in Philadelphia, PA since 2015.",
+    "image":"profilepic.jpg",
+    "bio":" When I first went to college in 2011,It was an institute call ICPR Junior College that prepares you for the CompTIA A+ exams,the computer technician certification. That's where my passion started to grow. Once I saw that, I have the skill of learning things quickly. I decided to take one step further, the IT field has always been my passion. Having a background as a computer hardware and repair technician, I started to get  interested in coding.Then I said to my self you need to get to the other level. So I went to the University of Pennsylvania coding Bootcamp where I became a Full-Stack Web  Developer. I consider my self a team player having experience working with different teams in different types of roles and backgrounds. ",
+    "contactmessage":"Let's Talk!.. Contact Me.",
+    "email": "geoyd17@gmail.com",
+    "phone": "267-306-7710",
+    "address":{
+      "street":"(3313 Emeral st)",
+      "city":"(Philadelphia)",
+      "state":"(Pennsylvania)",
+      "zip": "(19134)"
+    },
+    "website": "",
+    "resumedownload":"resume/my-resume.pdf",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/geovany_cardoza",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/geovany-cardoza-14a961135/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Geovany17",
+        "className":"fa fa-github"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University Of Pennsylvania",
+        "degree":"Certificate",
+        "graduated":"November 2020",
+        "description":"Full Stack Web Developer, MERN Stack, 12 weeks intensive program."
+      },
+      {
+        "school":"ICPR Junior College",
+        "degree":"Certificate",
+        "graduated":"March 2012",
+        "description":"Computer Technician, hardware and software repair and maintenance."
+      }
+    ],
+    "work":[
+      {
+        "company":"Eastern Catalytic",
+        "title":"MIG Welder",
+        "years":"September 2018 - 2020",
+        "description":"general assembly, cutting , grinding, welding."
+      },
+      {
+        "company":"CVS Health",
+        "title":"Warehouse Associate",
+        "years":"June 2017 - May- 2018",
+        "description":"Order picker, Team leader, forklift driver, loading and unloading"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"JavaScript"
+      },
+      {
+        "name":"NodeJs"
+      },
+      {
+        "name":"Express"
+      },
+      {
+        "name":"jQuery"
+      },
+      {
+        "name":"MySQL"
+      },
+      {
+        "name":"MongoDB"
+      },
+      {
+        "name":"Github"
+      },
+      {
+        "name":"ReactJs"
+      },
+      {
+        "name":"Git"
+      },
+      {
+        "name":"Bootstrap"
+      },
+      {
+        "name":"Testing with Jest"
+      },
+      {
+        "name":"Computer Science Fundamentals"
+      },
+      {
+        "name":"Material-Ui"
+      },
+      {
+        "name":"Handlebar.js"
+      },
+      {
+        "name":"Ejs.js"
+      },
+      {
+        "name":"APIs"
+      },
+      {
+        "name":"REST"
+      },
+      {
+        "name":"Json"
+      },
+      {
+        "name":"Ajax"
+      },
+      {
+        "name":"Axios"
+      },
+      {
+        "name":"NPM"
+      },
+      {
+        "name":"Postman"
+      },
+      {
+        "name":"Heroku"
+      },
+      {
+        "name":"MERN Stack"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":" Petfinder",
+        "category":" For people to search for adoptable pets in their area",
+        "image":"PetFinder!.gif",
+        "url":"https://lisabflamenco.com/https://petfind-app.herokuapp.com/",
+        "repo":"https://github.com/SeyKoplik/PetFinder"
+      },
+      {
+        "title":"CovidTravelar GFS",
+        "category":"Providing details about an individual state you are interested in visiting and how their covid-19 data is for the state’s population.",
+        "image":"covidGFS.png",
+        "url":"https://seykoplik.github.io/CovidTravellerGFSPage/",
+        "repo":"https://github.com/SeyKoplik/Project1_CovidTravellerGFSPage"
+      },
+      {
+        "title":"EmployeeDirectory",
+        "category":"This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by 'name' and also organize each field (Name, Email, DOB) in ascending or descending order.",
+        "image":"EmployeeDirectory.gif",
+        "url":"https://dry-forest-93487.herokuapp.com/",
+        "repo":"https://github.com/Geovany17/EmployeeDirectory"
+      },
+      {
+        "title":"WorkOutTracker",
+        "category":"The goal for this assignment is to create a full stack workout tracker web application that will allow a user to keep track of their workout regime by using MongoDB and Mongoose schema for database creation/management and Express for handling routes.",
+        "image":"workOutTracker.png",
+        "url":"https://arcane-coast-05768.herokuapp.com/?id=5f90ea8f02aa2000176e0faa",
+        "repo":"https://github.com/Geovany17/WorkOutTracker"
+      }
+    ]
+  }
+  
+}
