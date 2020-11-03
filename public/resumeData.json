@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    
     "education":[
       {
         "school":"University Of Pennsylvania",
@@ -108,15 +108,6 @@
       },
       {
         "name":"Computer Science Fundamentals"
-      },
-      {
-        "name":"Material-Ui"
-      },
-      {
-        "name":"Handlebar.js"
-      },
-      {
-        "name":"Ejs.js"
       },
       {
         "name":"APIs"
