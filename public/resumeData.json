@@ -154,13 +154,7 @@
         "url":"https://seykoplik.github.io/CovidTravellerGFSPage/",
         "repo":"https://github.com/SeyKoplik/Project1_CovidTravellerGFSPage"
       },
-      {
-        "title":"EmployeeDirectory",
-        "category":"This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by 'name' and also organize each field (Name, Email, DOB) in ascending or descending order.",
-        "image":"EmployeeDirectory.gif",
-        "url":"https://dry-forest-93487.herokuapp.com/",
-        "repo":"https://github.com/Geovany17/EmployeeDirectory"
-      },
+     
       {
         "title":"WorkOutTracker",
         "category":"The goal for this assignment is to create a full stack workout tracker web application that will allow a user to keep track of their workout regime by using MongoDB and Mongoose schema for database creation/management and Express for handling routes.",
